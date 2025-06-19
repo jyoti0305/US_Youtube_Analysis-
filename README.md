@@ -37,17 +37,12 @@ A data analysis project that explores the dynamics of trending videos on YouTube
 ## 📊 Visualizations
 
 ### 🎯 Top 10 Trending Categories
-![Top Categories](assets/top_categories.png)
 
 ### ⏱️ Days to Trend vs Views
-![Days to Trend](assets/days_to_trend_vs_views.png)
 
 ### 💬 Comments vs Likes (Log-Scale)
-![Comments vs Likes](assets/comments_vs_likes_log.png)
 
 ### 🏷️ Tags vs Views
-![Tags vs Views](assets/tags_vs_views.png)
-
 ---
 
 ## 📦 Tech Stack
@@ -86,11 +81,12 @@ youtube-trending-analysis/
 ---
 
 
-📤** Optional Large Dataset Link**
-🔗 Download full dataset via Google Drive
+📤 **Optional Large Dataset Link
+🔗 Download full dataset via Google Drive**
 US_category_id.json  :  https://drive.google.com/file/d/1KRTpOodzOdv0KSsN1a-6jKP1qNSZdUTf/view?usp=drive_link
 USvideos.csv  :  https://drive.google.com/file/d/1WA6MDPvJtg65PmGYJE5xWztrNDN-cbR8/view?usp=drive_link
 youtube_trending_cleaned.csv : https://drive.google.com/file/d/14tpL203ZBYwbZ_PwXgFUjzvyFaKLuxfo/view?usp=drive_link
+
 ---
 
 
