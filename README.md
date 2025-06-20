@@ -35,18 +35,14 @@ A data analysis project that explores the dynamics of trending videos on YouTube
 ---
 
 ## 📊 Visualization
-
+       See Charts Here: https://drive.google.com/drive/folders/1uOOxA9mySnp8Y1vk5BflUh05Ahg0FPwZ?usp=drive_link
 ### 🎯 Top 10 Trending Categories
-        https://github.com/user-attachments/assets/3bb1f9e0-c783-432f-9888-21a0c8eb4752
 
 ### ⏱️ Days to Trend vs Views
-        https://github.com/user-attachments/assets/4974f7a4-b267-4e54-ba77-32ae4660ec24
  
 ### 💬 Comments vs Likes (Log-Scale)
-        https://github.com/user-attachments/assets/657775c3-e479-4aaf-adfb-2312b2de6766
 
 ### 🏷️ Tags vs Views
-        https://github.com/user-attachments/assets/7a4d1273-c818-4f4e-a780-f116d84b6ab7
 
 ---
 
