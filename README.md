@@ -35,7 +35,7 @@ A data analysis project that explores the dynamics of trending videos on YouTube
 ---
 
 ## 📊 Visualization
-       See Charts Here: https://drive.google.com/drive/folders/1uOOxA9mySnp8Y1vk5BflUh05Ahg0FPwZ?usp=drive_link
+See Charts Here: https://drive.google.com/drive/folders/1uOOxA9mySnp8Y1vk5BflUh05Ahg0FPwZ?usp=drive_link
 ### 🎯 Top 10 Trending Categories
 
 ### ⏱️ Days to Trend vs Views
