@@ -44,6 +44,8 @@ See Charts Here: https://drive.google.com/drive/folders/1uOOxA9mySnp8Y1vk5BflUh0
 
 ### 🏷️ Tags vs Views
 
+
+## 📊Here is a some visualizations using tableau :https://public.tableau.com/views/YouTubeanalysis_17507583464940/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 ---
 
 ## 📦 Tech Stack
